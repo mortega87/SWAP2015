@@ -26,5 +26,3 @@ El balanceador de carga **LoadMaster 2600** es un controlador de entrega de apli
 En el **TP-LINK TL ER6120** la función de balanceo inteligente de carga distribuye los flujos de datos en función del ancho de banda de cada puerto WAN, optimizando de este modo la utilización de varias conexiones de banda ancha. 
 
 
-**Ejercicio T4.4: Instala y configura en una máquina virtual el balanceador ZenLoadBalancer. Compara con la dificultad de la instalación y configuración usando nginx o haproxy (práctica 3).**
-
