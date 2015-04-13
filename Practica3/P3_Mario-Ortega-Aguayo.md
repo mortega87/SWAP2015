@@ -29,15 +29,18 @@ Reiniciamos el servicio nginx para que tome la nueva configuración:
 
 <pre>service nginx restart</pre>
 
-Y comprobamos que funciona correctamente realizando peticiones web a una de las máquinas servidoras, en este caso la máquina 2.
+Y comprobamos que funciona correctamente realizando peticiones web mediante curl http://192.168.1.102, es decir, al servidor que está ejecutando nginx.
 
 ![](./img/6.png)
 
-Para finalizar con la configuración de nginx vamos a añadir a la configuración keepalive, ya que actualmente es el método más utilizado para conexiones con una persistencia de múltiples peticiones HTTP, y asi evitar abrir una conexión nueva cada vez.
+Para finalizar con la configuración de nginx vamos a añadir a la configuración el doble de peso a la maquina servidora 1 mediante la directiva weight.
 
 ![](./img/7.png)
 
-Comprobamos que sigue funcionando correctamente.
+Comprobamos que sigue funcionando correctamente con ambas maquinas servidoras (1 y 2).
 
 
 ![](./img/8.png)
+
+
+![](./img/9.png)
