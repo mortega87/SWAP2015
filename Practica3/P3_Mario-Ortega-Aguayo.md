@@ -44,3 +44,29 @@ Comprobamos que sigue funcionando correctamente con ambas maquinas servidoras (1
 
 
 ![](./img/9.png)
+
+Vamos ahora a realizar la segunda parte de la práctica, en la cual se va a realizar la instalación y configuración de balanceo de carga con **haproxy**.
+
+En primer lugar instalamos este software de balanceo mediante el siguiente comando:
+
+<pre>apt-get install haproxy</pre>
+
+Y vamos a editar su fichero de configuración como podemos ver en la siguiente imagen:
+
+![](./img/10.png)
+
+Tras esto, paramos el servicio nginx:
+
+<pre>service nginx stop</pre>
+
+Y lanzamos el servicio haproxy:
+
+![](./img/11.png)
+
+Una vez llegados a este punto, con nuestros servidores debemos poder realizar peticiones web al servidor que contiene el haproxy, es decir, nuestra máquina 3, con ip 192.168.1.102.
+
+Vemos en las siguientes imágenes como las peticiones se realizan correctamente con ambas máquinas.
+
+![](./img/12.png)
+
+![](./img/13.png)
