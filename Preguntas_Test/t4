@@ -1,0 +1,52 @@
+¿Cual es el principal objetivo de un balanceador de carga?
+a)Distribuir el tráfico entre varios servidores.
+b)Sobrecargar al servidor de trabajo y asi el cliente estará más liberado.
+c)Almacenar las paginas web más visitadas y así el tiempo de respuesta se reduce.
+d)Generar ip's dinámicas a todos los clientes de una red.
+
+Respuesta correcta a.
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+Las principales ventajar de utilizar un balanceador web son:
+a)Mejorar la escalabilidad.
+b)Mejorar la disponibilidad.
+c)Mejorar la seguridad.
+d)Todas las respuestas son correctas.
+
+Respuesta correcta d.
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+¿Qué es un grupo o clúster?
+a)Conjunto de servidores dedicados únicamente a una función.
+b)Conjunto de servidores sin un balanceador de carga.
+c)Conjunto de servidores con un balanceador al frente para repartir la carga.
+d)Conjunto de clientes conectados a un servidor.
+
+Respuesta correcta c.
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+La persistencia hace referencia a:
+a)Mantener un servidor siempre activo.
+b)Mantener el tráfico de un usuario dirigido al servidor que comenzó a atenderlo.
+c)Realizar todas las peticiones posibles desde un cliente hasta que el servidor se vea sobrecargado.
+d)Mantener el tráfico de un usuario dirigido a cualquier servidor excepto al que comenzó a atenderlo.
+
+Respuesta correcta b.
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+¿Quíen se ocupa de implementar los algoritmos de balanceo?
+a)El balanceador.
+b)El servidor.
+c)El cliente.
+d)Cualquiera de los anteriores.
+
+Respuesta correcta a.
+
+
+
+
+

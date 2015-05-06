@@ -1,0 +1,50 @@
+Un backbone se puede formar con:
+a)Un router.
+b)Un switch.
+c)Un hub.
+d)Con cualquiera de las tres opciones anteriores.
+
+Respuesta correcta d.
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+Un backbone se encarga de:
+a)Enrutar los paquetes por el camino más corto.
+b)Configurar los servidores al cual está conectado.
+c)Hacer las comunicaciones entre servidores y redes.
+d)Resolver problemas de pérdidas de paquetes en una red interna.
+
+Respuesta correcta c.
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+¿Qué es una DMZ?
+a)Área restringida, aislada y totalmente controlada.
+b)Área abierta donde se encuentran los clientes.
+c)Área enrutada, es decir, la zona donde se guardan los routers.
+d)Ninguna de las anteriores es correcta.
+
+Respuesta correcta a.
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+En la configuración de la zona segura, ¿cual es la más segura?
+a)Configuración sin DMZ.
+b)Configuración de DMZ doble.
+c)Configuración de DMZ simple.
+d)Configuración de DMZ tradicional.
+
+Respuesta correcta b.
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+Para conectar una granja web a Internet, ¿cual es el factor para asegurar la calidad de servicio y la seguridad?
+a)Calidad de servicio y ancho de banda.
+b)Filtrado y bloqueo de paquetes.
+c)NAT
+d)Todas las respuestas son correctas.
+
+Respuesta correcta d.
+
+
+
