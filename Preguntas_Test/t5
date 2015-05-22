@@ -1,0 +1,42 @@
+Señala una de las métricas más importantes cuando hablamos del rendimiento de servidores web.
+
+a)Hardware del servidor.
+b)Conexiones por segundo.
+c)a y b son correctas.
+d)Ninguna es correcta.
+
+Respuesta correcta b.
+
+-----------------------------------------------------------------------------------------------------------------------------------
+¿Por qué está limitado el número de conexiones concurrentes?
+
+a)Todas son correctas.
+b)Memoria secundaria del servidor web.
+c)Conexiones por segundo.
+d)Memoria o procesador del dispositivo.
+
+Respuesta correcta d.
+
+-----------------------------------------------------------------------------------------------------------------------------------
+El rendimiento, en bits por segundo:
+
+a)Hace referencia a la velocidad a la que el balanceador maneja y pasa el tráfico.
+b)Hace referencia a como el hardware gestiona la entrada de peticiones web.
+c)Hace referencia al numero de conexiones por segundo
+d)
+
+Respuesta correcta a.
+
+
+-----------------------------------------------------------------------------------------------------------------------------------
+Principales tipos de pruebas para comprobar el rendimiento de un servidor web:
+
+a)Humo, carga y capacidad.
+b)Carga y capacidad.
+c)Humo y carga.
+d)Todas son correctas.
+
+Respuesta correcta a.
+
+
+
